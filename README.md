@@ -6,7 +6,7 @@ My Master's degree is focused on quantum light–matter interaction, laser physi
 
 In my spare time, I am interested in computer science and in building physics simulations related to my field of study. I aim to bring together my diverse interests to contribute meaningfully to the progress of quantum computing and algorithm development.
 
-See my portfolio <a href="alexandremnd.github.io">here</a>
+See my portfolio <a href="https://alexandremnd.github.io">here</a>
 
 ---
 
