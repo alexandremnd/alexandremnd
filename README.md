@@ -10,7 +10,7 @@ See my portfolio <a href="https://alexandremnd.github.io">here</a>
 
 ---
 
-Here is some tools I am comfortable to use, but I am always open to learning and developing new abilities alongside the skills I already hold.
+Here are some tools I am comfortable using, but I am always open to learning and developing new abilities alongside the skills I already have.
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
